@@ -47,6 +47,6 @@ function sumOfString(input){
 }
 
 
-let input = "45 + 12";
+let input = "45 + 12 - 23 / 3 * 3";
 let result1 = sumOfString(input);
 console.log(result1);
